@@ -2,7 +2,7 @@
   "name": "Git error replication",
   "projectId": "4391a7f6-28b9-4b29-9c02-c2309ffb3fd6",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Master.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.Mail.Activities": "[1.24.16]",
@@ -49,7 +49,7 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
+      "filePath": "Master.xaml",
       "uniqueId": "3986a4ce-1334-4524-ae73-83a63e6389df",
       "input": [],
       "output": []
